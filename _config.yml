@@ -12,7 +12,7 @@ github_repo: "https://github.com/sufujia/sufujia.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "苟利国家生死以，岂因福祸避趋之。"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/beijingtu.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
